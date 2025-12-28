@@ -1,0 +1,8 @@
+[
+  { "id": 1, "sku": "DAI-001", "name": "Milk 1L", "category": "Dairy", "stock": 34, "reorderLevel": 15, "price": 1.49 },
+  { "id": 2, "sku": "BAK-002", "name": "Bread", "category": "Bakery", "stock": 12, "reorderLevel": 20, "price": 1.99 },
+  { "id": 3, "sku": "BEV-003", "name": "Coffee 500g", "category": "Beverages", "stock": 8, "reorderLevel": 10, "price": 6.49 },
+  { "id": 4, "sku": "BEV-004", "name": "Green Tea", "category": "Beverages", "stock": 55, "reorderLevel": 12, "price": 2.79 },
+  { "id": 5, "sku": "SNA-005", "name": "Chips", "category": "Snacks", "stock": 5, "reorderLevel": 18, "price": 1.29 },
+  { "id": 6, "sku": "HOM-006", "name": "Dish Soap", "category": "Household", "stock": 19, "reorderLevel": 8, "price": 2.19 }
+]
